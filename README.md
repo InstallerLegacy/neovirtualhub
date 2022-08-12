@@ -1,11 +1,5 @@
 # VirtualHub
 
-<style>
-img {
-  border-radius: 15%;
-}
-</style>
-
 ![VirtualHub logo](/assets/about.webp)
 
 > Visit [VirtualHub Blog](https://blog.virtualhub.org) to know more about the fascinating history and stories about VirtualHub.
