@@ -1,46 +1,29 @@
-# Chirpy Starter [![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)](https://rubygems.org/gems/jekyll-theme-chirpy) [![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
+# VirtualHub
 
-When installing the [**Chirpy**][chirpy] theme through [RubyGems.org][gem], Jekyll can only read files in the folders `_includes`, `_layout`, `_sass` and `assets`, as well as a small part of options of the `_config.yml` file from the theme's gem. If you have ever installed this theme gem, you can use the command `bundle info --path jekyll-theme-chirpy` to locate these files.
+<style>
+img {
+  border-radius: 15%;
+}
+</style>
 
-The Jekyll organization claims that this is to leave the ball in the user’s court, but this also results in users not being able to enjoy the out-of-the-box experience when using feature-rich themes.
+![VirtualHub logo](/assets/about.webp)
 
-To fully use all the features of **Chirpy**, you need to copy the other critical files from the theme's gem to your Jekyll site. The following is a list of targets:
+> Visit [VirtualHub Blog](https://blog.virtualhub.org) to know more about the fascinating history and stories about VirtualHub.
 
-```shell
-.
-├── _config.yml
-├── _data
-├── _plugins
-├── _tabs
-└── index.html
-```
+Welcome to VirtualHub, the playground of legacy Operating Systems. Here, we are going to install the same operating system in many different Virtual Environments and Emulators.
 
-In order to save your time, and to prevent you from missing some files when copying, we extract those files/configurations of the latest version of the **Chirpy** theme and the [CD][CD] workflow to here, so that you can start writing in minutes.
+So, how is this different from [Legacy Installer](https://legacyinstaller.pcriot.com/), our main website? The idea behind this separate website had been roaming in my head for a long time. I was getting frustrated by WordPress but did not want to leave it because it provided many features.
 
-## Prerequisites
+I love written tutorials with images instead of videos. But I know that many people like to watch videos instead of reading long tutorials. So, for now, I have been writing tutorials and making videos on all the topics on Legacy Installer. But it is proving very difficult for me to do all this alone.
 
-Follow the instructions in the [Jekyll Docs](https://jekyllrb.com/docs/installation/) to complete the installation of `Ruby`, `RubyGems`, `Jekyll` and `Bundler`.
+I also got bored by installing very old and simple operating systems that do not do anything much. With all this going on, I tried to form a solution to these problems and this introduces VirtualHub!
 
-## Installation
+VirtualHub is a static site and it is fast. I first used [Publii](https://getpublii.com/) to create and manage it. This enabled me to write and edit tutorials offline and publish it after proper editing. Since it is not hosted on any web server, all the writing and editing part is very fast and efficient unlike WordPress.
 
-[**Use this template**][use-template] to generate a brand new repository and name it `<GH_USERNAME>.github.io`, where `GH_USERNAME` represents your GitHub username.
+But Publii had its own limitations, so I began to search for an alternative. This version of VirtualHub is build using [Jekyll](https://jekyllrb.com/).
 
-Then clone it to your local machine and run:
+What I am going to do is post 1 tutorial every day on VirtualHub about installing old operating systems and other software on different virtualization and emulation software. I will not make videos related to these tutorials. On the Legacy Installer site, I will post a tutorial from time to time featuring some exciting and famous old operating systems with lots of tweaks to make them work better. I will make a video on these tutorials and will publish it on [youtube](https://www.youtube.com/channel/UC-I8rYuX1N17jcwboU3104Q) and other video-sharing sites. I will also upload the video on the VirtualHub site and create a post here to further analyze the video.
 
-```
-$ bundle
-```
+There is one more change that I have done in my last few tutorials. Instead of using Windows to write the tutorial and make the video, I used different linux distributions. I have now settled on one distribution - [Ubuntu](https://ubuntu.com/) (Default Gnome Edition). I will use it for all the tutorials and videos from now on. Since I am going to use Linux, the steps may need to be modified for Windows users. For emulators and other software that do not have a linux version or if the linux version does not work properly, I will use [WINE](https://www.winehq.org/) to run them.
 
-## Usage
-
-Please see the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy#documentation).
-
-## License
-
-This work is published under [MIT][mit] License.
-
-[gem]: https://rubygems.org/gems/jekyll-theme-chirpy
-[chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy/
-[use-template]: https://github.com/cotes2020/chirpy-starter/generate
-[CD]: https://en.wikipedia.org/wiki/Continuous_deployment
-[mit]: https://github.com/cotes2020/chirpy-starter/blob/master/LICENSE
+For more information about Legacy Installer and its aims, visit its [about page](https://legacyinstaller.pcriot.com/about).
