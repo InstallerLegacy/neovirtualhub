@@ -27,3 +27,4 @@ What I am going to do is post 1 tutorial every day on VirtualHub about installin
 There is one more change that I have done in my last few tutorials. Instead of using Windows to write the tutorial and make the video, I used different linux distributions. I have now settled on one distribution - [Ubuntu](https://ubuntu.com/) (Default Gnome Edition). I will use it for all the tutorials and videos from now on. Since I am going to use Linux, the steps may need to be modified for Windows users. For emulators and other software that do not have a linux version or if the linux version does not work properly, I will use [WINE](https://www.winehq.org/) to run them.
 
 For more information about Legacy Installer and its aims, visit its [about page](https://legacyinstaller.pcriot.com/about).
+.
