@@ -27,11 +27,11 @@ It is very easy to start using 86-DOS. On Linux, extract the above archive and r
 
 Press Enter (↩) until a prompt appears and then type a capital "B" without quotes and press Enter (↩) to start 86DOS.
 
-![86DOS emulator with 86DOS started screenshot](86DOS-2.webp)
+![86DOS emulator with 86-DOS started screenshot](86DOS-2.webp)
 
 Enter a date from 1980s to continue. You should not enter dates after year 2000 due to a bug in almost all software released before that year. For example, enter 03-23-82 and press Enter(↩). 86-DOS will start. You can enter the DIR command to see a list of available files.
 
-![DIR command running in 86DOS](86DOS-3.webp)
+![DIR command running in 86-DOS](86DOS-3.webp)
 
 That's it! We used 86-DOS, an operating system launched in 1981 after 41 years (at the time of writing this tutorial).
 
