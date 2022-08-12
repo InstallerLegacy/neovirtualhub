@@ -37,19 +37,19 @@ That's it! We used 86-DOS, an operating system launched in 1981 after 41 years (
 
 ## Manuals
 
-- [86-DOS Instruction Manual](https://web.archive.org/web/20200110094102/http://www.patersontech.com/dos/docs/86_Dos_inst.pdf)
-- [86-DOS Programmer's Manual](https://web.archive.org/web/20210216072829/http://bitsavers.org/pdf/seattleComputer/86-DOS_0.3_Programmers_Manual_1980.pdf)
-- [86-DOS User's Manual](https://web.archive.org/web/20210216073337/http://bitsavers.org/pdf/seattleComputer/86-DOS_0.3_Users_Manual_1980.pdf)
-- [86-DOS 1.0 Addendum](https://web.archive.org/web/20210216073838/http://bitsavers.org/pdf/seattleComputer/86-DOS_1.0_Addendum.pdf)
+- [86-DOS Instruction Manual](https://web.archive.org/web/20200110094102/http://www.patersontech.com/dos/docs/86_Dos_inst.pdf){:target="_blank"}
+- [86-DOS Programmer's Manual](https://web.archive.org/web/20210216072829/http://bitsavers.org/pdf/seattleComputer/86-DOS_0.3_Programmers_Manual_1980.pdf){:target="_blank"}
+- [86-DOS User's Manual](https://web.archive.org/web/20210216073337/http://bitsavers.org/pdf/seattleComputer/86-DOS_0.3_Users_Manual_1980.pdf){:target="_blank"}
+- [86-DOS 1.0 Addendum](https://web.archive.org/web/20210216073838/http://bitsavers.org/pdf/seattleComputer/86-DOS_1.0_Addendum.pdf){:target="_blank"}
 
 ## Related Pages
 
-- [WinWorld Page](https://winworldpc.com/product/86-dos/100)
-- [Wikipedia](https://en.wikipedia.org/wiki/86-DOS)
-- [BetaWiki](https://betawiki.net/wiki/86-DOS)
-- [Tim Paterson's Site (Wayback Machine)](https://web.archive.org/web/20200102191543/http://www.patersontech.com/dos/origins-of-dos.aspx)
-- [Tim Paterson's Blog](https://dosmandrivel.blogspot.com/)
+- [WinWorld Page](https://winworldpc.com/product/86-dos/100){:target="_blank"}
+- [Wikipedia](https://en.wikipedia.org/wiki/86-DOS){:target="_blank"}
+- [BetaWiki](https://betawiki.net/wiki/86-DOS){:target="_blank"}
+- [Tim Paterson's Site (Wayback Machine)](https://web.archive.org/web/20200102191543/http://www.patersontech.com/dos/origins-of-dos.aspx){:target="_blank"}
+- [Tim Paterson's Blog](https://dosmandrivel.blogspot.com/){:target="_blank"}
 
 ## Credits
 
-The emulator which is linked above was created by [Peter Schorn](mailto:peter.schorn@acm.org). You can visit [his website](https://schorn.ch/altair.html) to download the original emulator and lots of other software.
+The emulator which is linked above was created by [Peter Schorn](mailto:peter.schorn@acm.org){:target="_blank"}. You can visit [his website](https://schorn.ch/altair.html){:target="_blank"} to download the original emulator and lots of other software.
