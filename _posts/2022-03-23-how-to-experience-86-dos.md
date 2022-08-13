@@ -6,8 +6,8 @@ tags: [dos, other emulator]
 author: legacyinstaller
 image:
   path: 86DOS-2.webp
-  width: 834   # in pixels
-  height: 630   # in pixels
+  width: 786   # in pixels
+  height: 533   # in pixels
   alt: 86DOS running
 img_path: /assets/img/2022/March/23/
 ---

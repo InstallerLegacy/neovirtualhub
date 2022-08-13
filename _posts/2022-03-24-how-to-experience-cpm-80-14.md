@@ -6,8 +6,8 @@ tags: [cp/m, other emulator]
 author: legacyinstaller
 image:
   path: CPM-80-1.4-2.webp
-  width: 834   # in pixels
-  height: 630   # in pixels
+  width: 786   # in pixels
+  height: 533   # in pixels
   alt: CP/M-80 1.4 DIR command screenshot
 img_path: /assets/img/2022/March/24/
 ---
