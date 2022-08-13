@@ -16,8 +16,8 @@ img_path: /assets/img/2022/March/23/
 
 You can Download them here:
 
-- [86DOS Linux version](/assets/Downloads/DOS/86DOS/86DOSonlinux.tar.xz)
-- [86DOS Windows version](/assets/Downloads/DOS/86DOS/86DOSonwindows.zip)
+- [86-DOS Linux version](/assets/Downloads/DOS/86DOS/86DOSonlinux.tar.xz)
+- [86-DOS Windows version](/assets/Downloads/DOS/86DOS/86DOSonwindows.zip)
 
 ## Using 86-DOS
 
@@ -25,7 +25,7 @@ It is very easy to start using 86-DOS. On Linux, extract the above archive and r
 
 ![86DOS emulator screenshot](86DOS-1.webp)
 
-Press Enter (↩) until a prompt appears and then type a capital "B" without quotes and press Enter (↩) to start 86DOS.
+Press Enter (↩) until a prompt appears and then type a capital "B" without quotes and press Enter (↩) to start 86-DOS.
 
 ![86DOS emulator with 86-DOS started screenshot](86DOS-2.webp)
 
