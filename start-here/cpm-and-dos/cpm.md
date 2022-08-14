@@ -7,6 +7,9 @@ layout: page
   h3 {
     margin: 30px;
   }
+  h4 {
+    margin: 60px;
+  }
 </style>
 
 ## ➤ CP/M-80
@@ -15,4 +18,4 @@ layout: page
 
 ### ➤ CP/M-80 2.2
 
-- [➤ Altair Z-80 Emulator]({% post_url 2022-03-25-how-to-experience-cpm-80-22 %})
+#### [➤ Altair Z-80 Emulator]({% post_url 2022-03-25-how-to-experience-cpm-80-22 %})
