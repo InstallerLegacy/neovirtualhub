@@ -1,6 +1,8 @@
 # VirtualHub
 
-![VirtualHub logo](/assets/about.webp)
+<p align="center">
+    <img src="/assets/about.webp">
+</p>
 
 > Visit [VirtualHub Blog](https://blog.virtualhub.org) to know more about the fascinating history and stories about VirtualHub.
 
