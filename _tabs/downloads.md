@@ -36,3 +36,10 @@ You can download all the files related to tutorials on this website here. I will
 - [MAME KAYPRO II KBD ROM](https://archive.org/download/mame-merged/mame-merged/kaypro10kbd.zip)
 - [mame.ini file for Linux](/assets/Downloads/MAME/mame.ini.linux.tar.xz)
 - [mame.ini file for Windows](/assets/Downloads/MAME/mame.ini.windows.zip)
+
+##### MAME Sharp X1 Emulator
+
+- [CP/M-80 2.2 for Sharp X1 disk image files](https://archive.org/download/cpm-80-2.2-sharp-x-1/CPM-80%202.2%20%5BSharp%20X1%5D%20%285.25-DSDD%29.7z)
+- [MAME Sharp X1 ROM](https://archive.org/download/mame-merged/mame-merged/x1.zip)
+- [mame.ini file for Linux](/assets/Downloads/MAME/mame.ini.linux.tar.xz)
+- [mame.ini file for Windows](/assets/Downloads/MAME/mame.ini.windows.zip)
