@@ -53,19 +53,19 @@ $ mame x1
 
 You need to prefix `mame` with the path on Windows as shown above. The MAME window should open like this:
 
-![MAME KAYPRO II window](CPM-80-2.2-MAME-x1-1.webp)
+![MAME's X1 emulation window](CPM-80-2.2-MAME-x1-1.webp)
 
 If the window does not open and you get a ROM not found or similar error, see the [troubleshooting section](#troubleshooting) below. Press any key to continue. The emulation of this machine is not perfect. You will be informed about this by MAME. Press any key to continue. Wait until you get to this screen:
 
-![KAYPRO II asking for floppy disk](CPM-80-2.2-MAME-x1-2.webp)
+![Sharp X1 OS loader screen](CPM-80-2.2-MAME-x1-2.webp)
 
 Press the CAPS LOCK key to enable UI control. Then press the TAB key to open the menu.
 
-![Emulator main menu](CPM-80-2.2-MAME-x1-3.webp)
+![Sharp X1 main menu](CPM-80-2.2-MAME-x1-3.webp)
 
 Then click on `File Manager > floppydisk`. Choose the `disk01.imd`{: .filepath} file from the list and choose `Read-write`.
 
-![Choosing the floppy image](CPM-80-2.2-MAME-x1-4.webp)
+![Sharp X1 floppy disk image chooser](CPM-80-2.2-MAME-x1-4.webp)
 
 Then click on `Return to Previous menu > Return to the machine`. Press the CAPS LOCK key once again to turn off UI control. Press `F` key and then `0` key to start CP/M-80 2.2. Enter the following command to install CP/M-80 2.2:
 
@@ -76,7 +76,7 @@ A> movcpm
 
 If the the command do not finish within 5 minutes, close you VM and start is again. Enter the `DIR` command to see a list of files. If it matches the screenshot below, then CP/M-80 2.2 is installed!
 
-![List of files in KAYPRO CP/M-80 2.2](CPM-80-2.2-MAME-x1-5.webp)
+![List to files in Sharp X1 CP/M-80 2.2](CPM-80-2.2-MAME-x1-5.webp)
 
 Now, you can close this window. The next time you open the emulator again, you don't need to go through all these steps. Just open your terminal and navigate to the folder where all the the files related to the emulator are stored and run:
 
