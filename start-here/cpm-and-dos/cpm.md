@@ -10,6 +10,9 @@ layout: page
   h4 {
     margin: 60px;
   }
+  h5 {
+    margin: 90px;
+  }
 </style>
 
 ## ➤ CP/M-80
@@ -20,6 +23,8 @@ layout: page
 
 #### [➤ Altair Z-80 Emulator]({% post_url 2022-03-25-how-to-experience-cpm-80-22 %})
 
-#### [➤ MAME KAYPRO II Emulation]({% post_url 2022-03-26-how-to-experience-cpm-80-22-using-mame-kaypro-ii-emulation %})
+#### ➤ MAME
 
-#### [➤ MAME Sharp X1 Emulation]({% post_url 2022-03-26-how-to-experience-cpm-80-22-using-mame-sharp-x1-emulation %})
+##### [➤ MAME KAYPRO II Emulation]({% post_url 2022-03-26-how-to-experience-cpm-80-22-using-mame-kaypro-ii-emulation %})
+
+##### [➤ MAME Sharp X1 Emulation]({% post_url 2022-03-27-how-to-experience-cpm-80-22-using-mames-sharp-x1-emulation %})
