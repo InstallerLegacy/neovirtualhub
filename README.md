@@ -4,7 +4,7 @@
     <img src="/assets/about.webp">
 </p>
 
-> Visit [VirtualHub Blog](https://blog.virtualhub.org) to know more about the fascinating history and stories about VirtualHub.
+> Visit [VirtualHub Blog](https://blog.virtualhub.eu.org) to know more about the fascinating history and stories about VirtualHub.
 
 Welcome to VirtualHub, the playground of legacy Operating Systems. Here, we are going to install the same operating system in many different Virtual Environments and Emulators.
 
