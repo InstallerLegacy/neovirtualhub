@@ -2,7 +2,7 @@
 title: How to experience 86-DOS?
 date: 2022-03-23 12:00:00 +0530
 categories: [DOS, 86-DOS]
-tags: [dos, other emulator]
+tags: [dos, altair z80 emulator]
 author: legacyinstaller
 image:
   path: 86DOS-2.webp

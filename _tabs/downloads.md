@@ -53,3 +53,8 @@ You can download all the files related to tutorials on this website here. I will
 - [MAME NCR Decision Mate V dmv_k230 ROM](https://archive.org/download/mame-merged/mame-merged/dmv_k230.zip)
 - [mame.ini file for Linux](/assets/Downloads/MAME/mame.ini.linux.tar.xz)
 - [mame.ini file for Windows](/assets/Downloads/MAME/mame.ini.windows.zip)
+
+##### YAZE
+
+- [YAZE sources for Linux](https://web.archive.org/web/20220329102455/https://www.mathematik.uni-ulm.de/users/ag/yaze-ag/devel/yaze-ag-2.51.3.tar.gz){:target="_blank"}
+- [YAZE binaries for Windows](https://web.archive.org/web/20220329102257/https://www.mathematik.uni-ulm.de/users/ag/yaze-ag/winbinaries/index.html){:target="_blank"}

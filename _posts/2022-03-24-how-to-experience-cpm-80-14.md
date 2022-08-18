@@ -2,7 +2,7 @@
 title: How to experience CP/M-80 1.4?
 date: 2022-03-24 12:00:00 +0530
 categories: [CP/M, CP/M-80]
-tags: [cp/m, other emulator]
+tags: [cp/m, altair z80 emulator]
 author: legacyinstaller
 image:
   path: CPM-80-1.4-2.webp
