@@ -28,3 +28,5 @@ layout: page
 ##### [➤ MAME KAYPRO II Emulation]({% post_url 2022-03-26-how-to-experience-cpm-80-22-using-mame-kaypro-ii-emulation %})
 
 ##### [➤ MAME Sharp X1 Emulation]({% post_url 2022-03-27-how-to-experience-cpm-80-22-using-mames-sharp-x1-emulation %})
+
+##### [➤ MAME NCR Decision Mate V Emulation]({% post_url 2022-03-28-how-to-experience-cpm-80-22-using-mames-ncr-decision-mate-v-emulation %})

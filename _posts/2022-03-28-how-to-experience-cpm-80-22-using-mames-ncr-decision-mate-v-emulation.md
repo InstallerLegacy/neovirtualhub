@@ -1,27 +1,30 @@
 ---
-title: How to experience CP/M-80 2.2 using MAME's Sharp X1 emulation?
-date: 2022-03-27 12:00:00 +0530
+title: How to experience CP/M-80 2.2 using MAME's NCR Decision Mate V emulation?
+date: 2022-03-28 12:00:00 +0530
 categories: [CP/M, CP/M-80, CP/M-80 2.2]
 tags: [cp/m, mame]
 author: legacyinstaller
 image:
-  path: CPM-80-2.2-MAME-x1-5.webp
+  path: CPM-80-2.2-MAME-dmv-5.webp
   width: 800   # in pixels
   height: 600   # in pixels
-  alt: List of FIles in Sharp X1 CP/M-80 2.2
-img_path: /assets/img/2022/March/27/
+  alt: List of Files in DMV CP/M-80 2.2
+img_path: /assets/img/2022/March/28/
 ---
 
-In the last tutorial, we saw [how to experience CP/M-80 2.2 using MAME's KAYPRO II emulation]({% post_url 2022-03-26-how-to-experience-cpm-80-22-using-mame-kaypro-ii-emulation %}){:target="_blank"}. There are three system on which we can run CP/M-80 2.2:
+In the last tutorial, we saw [how to experience CP/M-80 2.2 using MAME's Sharp X1 emulation]({% post_url 2022-03-27-how-to-experience-cpm-80-22-using-mames-sharp-x1-emulation %}){:target="_blank"}. There are three system on which we can run CP/M-80 2.2:
 
 - KAYPRO II
 - NCR Decision Mate V
 - Sharp X1
 
-In this tutorial, we are going to use the SHARP X1 emulation. You can download the files required for this tutorial from here:
+In this tutorial, we are going to use the NCR Decision Mate V emulation. You can download the files required for this tutorial from here:
 
-- [CP/M-80 2.2 for Sharp X1 disk image files](https://archive.org/download/cpm-80-2.2-sharp-x-1/CPM-80%202.2%20%5BSharp%20X1%5D%20%285.25-DSDD%29.7z)
-- [MAME Sharp X1 ROM](https://archive.org/download/mame-merged/mame-merged/x1.zip)
+- [CP/M-80 2.2 for NCR Decision Mate V disk image files](https://winworldpc.com/download/e28093c3-99c2-bc0b-c398-c2b211c3a5ef/from/c39ac2af-c381-c2bf-1b25-11c3a4e284a2)
+- [MAME NCR Decision Mate V ROM](https://archive.org/download/mame-merged/mame-merged/dmv.zip)
+- [MAME NCR Decision Mate V keyboard ROM](https://archive.org/download/mame-merged/mame-merged/dmv_keyboard.zip)
+- [MAME NCR Decision Mate V upd7220 ROM](https://archive.org/download/mame-merged/mame-merged/upd7220.zip)
+- [MAME NCR Decision Mate V dmv_k230 ROM](https://archive.org/download/mame-merged/mame-merged/dmv_k230.zip)
 - [mame.ini file for Linux](/assets/Downloads/MAME/mame.ini.linux.tar.xz)
 - [mame.ini file for Windows](/assets/Downloads/MAME/mame.ini.windows.zip)
 
@@ -43,45 +46,38 @@ You may need to specify the path to MAME if you are on Windows:
 
 This command will create some basic config files for MAME in that folder. Now open the folder in your File Manager and delete the `mame.ini`{: .filepath} file. Extract the `mame.ini`{: .filepath} file from the archive you downloaded above according to your platform and copy it to the folder in which you are storing all the files related to the emulator. Create a folder called `roms`{: .filepath} in that folder. Copy the ROMs archives to that folder. Do not extract the ROMs from the zip files. Move the zip files without extracting to the `roms`{: .filepath} folder.
 
-Extract the disk image archive and copy the `Images/ImageDisk/disk01.imd`{: .filepath} file to that folder where you are storing all the files related to the emulator.
+Extract the disk image archive and copy the `Cpm80dmv.imd`{: .filepath} file and the `extras`{: .filepath} folder to that folder where you are storing all the files related to the emulator.
 
 Now switch back to the terminal and run:
 
 ```terminal
-$ mame x1
+$ mame dmv
 ```
 
 You need to prefix `mame` with the path on Windows as shown above. The MAME window should open like this:
 
-![MAME's X1 emulation window](CPM-80-2.2-MAME-x1-1.webp)
+![NCR Decision Mate V emulator window](CPM-80-2.2-MAME-dmv-1.webp)
 
-If the window does not open and you get a ROM not found or similar error, see the [troubleshooting section](#troubleshooting) below. Press any key to continue. The emulation of this machine is not perfect. You will be informed about this by MAME. Press any key to continue. Wait until you get to this screen:
+If the window does not open and you get a ROM not found or similar error, see the [troubleshooting section](#troubleshooting) below. Press any key to continue.
 
-![Sharp X1 OS loader screen](CPM-80-2.2-MAME-x1-2.webp)
+![Disk not found error in DMV](CPM-80-2.2-MAME-dmv-2.webp)
 
 Press the CAPS LOCK key to enable UI control. Then press the TAB key to open the menu.
 
-![Sharp X1 main menu](CPM-80-2.2-MAME-x1-3.webp)
+![DMV main menu](CPM-80-2.2-MAME-dmv-3.webp)
 
-Then click on `File Manager > floppydisk1`. Choose the `disk01.imd`{: .filepath} file from the list and choose `Read-write`.
+Then click on `File Manager > floppydisk1`. Choose the `Cpm80dmv.imd`{: .filepath} file from the list and choose `Read-write`.
 
-![Sharp X1 floppy disk image chooser](CPM-80-2.2-MAME-x1-4.webp)
+![DMV Floppy Dick choose](CPM-80-2.2-MAME-dmv-4.webp)
 
-Then click on `Return to Previous menu > Return to the machine`. Press the CAPS LOCK key once again to turn off UI control. Press `F` key and then `0` key to start CP/M-80 2.2. Enter the following command to install CP/M-80 2.2:
+Then click on `Return to Previous menu > Return to the machine`. Press the CAPS LOCK key once again to turn off UI control. Press enter a few times to start CP/M-80 2.2. You can enter the `DIR` command to see a list of files.
 
-```terminal
-A> movcpm
-```
-{: file='X1 (CZ-800C)[x1]-MAME 0.242 (LP64)'}
-
-If the the command do not finish within 5 minutes, close you VM and start is again. Enter the `DIR` command to see a list of files. If it matches the screenshot below, then CP/M-80 2.2 is installed!
-
-![List to files in Sharp X1 CP/M-80 2.2](CPM-80-2.2-MAME-x1-5.webp)
+![List of files in DMV CP/M-80 2.2](CPM-80-2.2-MAME-dmv-5.webp)
 
 Now, you can close this window. The next time you open the emulator again, you don't need to go through all these steps. Just open your terminal and navigate to the folder where all the the files related to the emulator are stored and run:
 
 ```terminal
-$ mame x1
+$ mame dmv
 ```
 
 You need to prefix the above command with the path to MAME on windows as shown above.
@@ -90,28 +86,28 @@ But this method is very troublesome and lengthy. We can make a shell script whic
 
 ```bash
 #!/bin/bash
-mame x1
+mame dmv
 ```
-{: file='CPM-80-x1.sh'}
+{: file='CPM-80-dmv.sh'}
 
-and save the file as `CPM-80-x1.sh`{: .filepath}. Then make the script executable by running the following command in terminal after navigating to that folder:
+and save the file as `CPM-80-dmv.sh`{: .filepath}. Then make the script executable by running the following command in terminal after navigating to that folder:
 
 ```terminal
-$ sudo chmod +x ./CPM-80-x1.sh
+$ sudo chmod +x ./CPM-80-dmv.sh
 ```
 
 Then we can right click on that file and click on `Run as Program` to open the emulator. Some DEs and distros may have other methods of running shell scripts.
 
-On Windows, it is much easier. Create a file called `CPM-80-x1.bat`{: .filepath} in that folder with the following contents:
+On Windows, it is much easier. Create a file called `CPM-80-dmv.bat`{: .filepath} in that folder with the following contents:
 
 ```bash
-"C:\Program Files\MAME\mame.exe" x1
+"C:\Program Files\MAME\mame.exe" dmv
 ```
-{: file='CPM-80-x1.bat'}
+{: file='CPM-80-dmv.bat'}
 
 Then double click on that file to launch the emulator.
 
-That's it. We have installed and run CP/M-80 2.2 using the MAME's Sharp X1 emulation.
+That's it. We have installed and run CP/M-80 2.2 using the MAME's NCR Decision Mate V emulation. There are disk images for some software in the extra folder. We will cover these software later.
 
 ## Troubleshooting
 
@@ -158,4 +154,3 @@ That is it.
 
 - The [MAME emulator](https://mamedev.org/){:target="_blank"} is an open source project hosted on [github](https://github.com/mamedev/mame){:target="_blank"} developed by MAMEDev and contributors.
 - The disk image used above was taken from [WinWorld](https://winworldpc.com/){:target="_blank"}.
-

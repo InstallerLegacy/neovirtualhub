@@ -43,3 +43,13 @@ You can download all the files related to tutorials on this website here. I will
 - [MAME Sharp X1 ROM](https://archive.org/download/mame-merged/mame-merged/x1.zip)
 - [mame.ini file for Linux](/assets/Downloads/MAME/mame.ini.linux.tar.xz)
 - [mame.ini file for Windows](/assets/Downloads/MAME/mame.ini.windows.zip)
+
+##### MAME NCR Decision Mate V Emulator
+
+- [CP/M-80 2.2 for NCR Decision Mate V disk image files](https://winworldpc.com/download/e28093c3-99c2-bc0b-c398-c2b211c3a5ef/from/c39ac2af-c381-c2bf-1b25-11c3a4e284a2)
+- [MAME NCR Decision Mate V ROM](https://archive.org/download/mame-merged/mame-merged/dmv.zip)
+- [MAME NCR Decision Mate V keyboard ROM](https://archive.org/download/mame-merged/mame-merged/dmv_keyboard.zip)
+- [MAME NCR Decision Mate V upd7220 ROM](https://archive.org/download/mame-merged/mame-merged/upd7220.zip)
+- [MAME NCR Decision Mate V dmv_k230 ROM](https://archive.org/download/mame-merged/mame-merged/dmv_k230.zip)
+- [mame.ini file for Linux](/assets/Downloads/MAME/mame.ini.linux.tar.xz)
+- [mame.ini file for Windows](/assets/Downloads/MAME/mame.ini.windows.zip)
