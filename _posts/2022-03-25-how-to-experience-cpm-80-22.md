@@ -38,6 +38,10 @@ That's it! We used CP/M-80 2.2, an operating system launched in 1982 after 40 ye
 - [CP/M 2.2 MANUAL](https://web.archive.org/web/20220121011443/http://www.cpm.z80.de/manuals/cpm22-m.pdf){:target="_blank"}
 - [CP/M Reference Manual](https://web.archive.org/web/20220324101643/http://www.cpm.z80.de/manuals/SC-CPM.pdf){:target="_blank"}
 
+## Some Software
+
+- [WordStar 3.3]({% post_url 2022-03-30-how-to-install-wordstar-33-on-cpm-80-22 %}){:target="_blank"}
+
 ## Related Pages
 
 - [Wikipedia](https://en.wikipedia.org/wiki/CP/M){:target="_blank"}

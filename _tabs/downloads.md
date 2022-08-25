@@ -29,6 +29,10 @@ You can download all the files related to tutorials on this website here. I will
 - [CP/M-80 2.2 for Linux](https://archive.org/download/cpm-80-v2.2-linux/CPM80v2.2onlinux.tar.xz)
 - [CP/M-80 2.2 for Windows](https://archive.org/download/cpm-80-v2.2-windows/CPM80v2.2onwindows.zip)
 
+###### Software
+
+- [WordStar 3.3 package for Altair Z80s CP/M-80 2.2](https://web.archive.org/web/20220330051710/https://schorn.ch/cpm/zip/ws33.zip){:target="_blank"}
+
 ##### MAME KAYPRO II Emulator
 
 - [CP/M-80 2.2 for KAYPRO II disk image files](https://archive.org/download/kaypro-ii-64k-cpm-vers-2.2/KAYPRO%20II%2064k%20CPM%20vers%202.2.7z)
